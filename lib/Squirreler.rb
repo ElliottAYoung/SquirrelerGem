@@ -46,10 +46,8 @@ module Squirreler
 		end
 	end
 
-	private
-
 	def clear_screen
 		print "\e[2J"
-    print "\e[H"
+    		print "\e[H"
 	end
 end
