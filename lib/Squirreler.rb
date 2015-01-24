@@ -42,7 +42,6 @@ module Squirreler
 		num.times do |_|
 			print_squirrel
 			sleep(0.1)
-			clear_screen
 		end
 	end
 
