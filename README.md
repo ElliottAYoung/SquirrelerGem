@@ -1,6 +1,6 @@
 # Squirreler
 
-TODO: Write a gem description
+A Very Simple Ruby gem that prints an ASCII Squirrel to the console. 
 
 ## Installation
 
