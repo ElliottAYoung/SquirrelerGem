@@ -1,6 +1,6 @@
 # Squirreler
 
-A Very Simple Ruby gem that prints an ASCII Squirrel to the console. 
+A Very Simple Ruby gem that prints an ASCII Squirrel to the console. It's wonderful.
 
 ## Installation
 
@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+First you need to require 'Squirreler' at the top of your ruby file
+
+There are two methods in this gem: print_squirrel (prints the squirrel once) and spam_squirrels(num) which takes an argument and prints the squirrel that many times to your console.
 
 ## Contributing
 
