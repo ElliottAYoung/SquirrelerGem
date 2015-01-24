@@ -37,4 +37,19 @@ module Squirreler
 		puts "____________________¶¶¶¶¶¶¶___¶¶¶¶¶¶¶"
 		puts "———————————————————————————————————————————————————"
 	end
+
+	def self.spam_squirrels(num)
+		num.times do |_|
+			print_squirrel
+			sleep(0.1)
+			clear_screen
+		end
+	end
+
+	private
+
+	def clear_screen
+		print "\e[2J"
+    print "\e[H"
+	end
 end
