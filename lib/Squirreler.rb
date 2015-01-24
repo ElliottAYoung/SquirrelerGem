@@ -46,7 +46,7 @@ module Squirreler
 		end
 	end
 
-	def clear_screen
+	def self.clear_screen
 		print "\e[2J"
     		print "\e[H"
 	end
