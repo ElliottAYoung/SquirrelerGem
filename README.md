@@ -1,7 +1,7 @@
 # Squirreler
 [![Gem Version](https://badge.fury.io/rb/Squirreler.svg)](http://badge.fury.io/rb/Squirreler)
 
-A Very Simple Ruby gem that prints an ASCII Squirrel to the console. It's wonderful.
+A Very Simple Ruby gem that prints an ASCII Squirrel to the console. It's wonderful. :shipit:
 
 ## Installation
 
